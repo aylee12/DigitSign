@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+.center {
+	width: 500px;
+	height: 500px;
+	margin: auto;
+	text-align: center;
+	margin-top: 300px;
+	font-family: Arial, sans-serif;
+	font-size: 15px;
+	}
+.inner {
+	margin: 50px;
+}
+	
+.button {
+	background: white;
+	margin: 10px 5px;
+	border-radius: 8px;
+	border: solid 1px;
+}
+
+input[type="file"] {
+	display: none;
+} 
+
+.file_button {
+	background: white;
+	margin: 10px 0 20px 0;
+	border-radius: 8px;
+	border: solid 1px;
+}
+
+.filebox {
+	margin: 20px;
+}
+
+p {
+	margin: 0;
+}
