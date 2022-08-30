@@ -10,5 +10,5 @@ Java, JSP <br><br>
 
 ## 3. 시연 영상 <br>
 ### 3-1. 일치하는 경우 <br>
-<img src="![실행화면2_불일치-1](https://user-images.githubusercontent.com/97611411/187394981-084893d7-7c1e-4de6-8adb-498041a7237f.gif)" />
+<img src="https://user-images.githubusercontent.com/97611411/187394981-084893d7-7c1e-4de6-8adb-498041a7237f.gif" />
 ### 3-2. 불일치하는 경우 <br>
