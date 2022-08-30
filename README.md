@@ -11,5 +11,6 @@ Java, JSP <br><br>
 ## 3. 시연 영상 <br>
 ### 3-1. 일치하는 경우 <br>
 <img src="https://user-images.githubusercontent.com/97611411/187395838-c078232a-9d11-4c84-acf7-c842c3ca8c12.gif"/>
+
 ### 3-2. 불일치하는 경우 <br>
 <img src="https://user-images.githubusercontent.com/97611411/187394981-084893d7-7c1e-4de6-8adb-498041a7237f.gif"/>
