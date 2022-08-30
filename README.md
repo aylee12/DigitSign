@@ -1,5 +1,6 @@
 # DigitSign
 전자서명 웹 사이트 <br>
+Java -> Java + JSP로 리팩토링 <br>
 
 ## 기능 <br>
 1. 키 생성 <br>
